@@ -1,8 +1,5 @@
-# React + Vite
+# Jewels-Shop E-Commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Simple Front-end for an e-commerce website specialized in jewelry for girls.
+![screen_ecommerce](https://github.com/user-attachments/assets/1722cfb8-7e5c-4cbe-9022-c9831072bc38)
+![screen_ecommerce2](https://github.com/user-attachments/assets/410acee9-0296-493e-b139-bf84551f8089)
